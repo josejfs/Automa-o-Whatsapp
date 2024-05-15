@@ -22,7 +22,7 @@ Instale as dependências necessárias usando pip:
 pip install PySimpleGUI sqlite3 mysql-connector pywhatkit pyautogui
 ```
 
-###Interface Gráfica
+### Interface Gráfica
 
 A interface principal permite:
 
@@ -36,6 +36,6 @@ A interface principal permite:
 - Envio de Mensagens
 - Ao clicar em "Enviar Mensagem", uma nova janela será aberta onde você poderá selecionar a mensagem a ser enviada e a imagem opcional para ser anexada. O envio é automatizado utilizando PyWhatKit e PyAutoGUI para localizar o botão de envio do WhatsApp.
 
-###Contribuição
+### Contribuição
 
 Sinta-se à vontade para contribuir com este projeto enviando pull requests. Para grandes mudanças, abra uma issue primeiro para discutir o que você gostaria de mudar.
