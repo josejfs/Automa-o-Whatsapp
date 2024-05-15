@@ -1,4 +1,4 @@
-# Projeto Dra Alicya Mendes
+# Projeto Automação Envio de Mensagens
 
 Este projeto é uma aplicação para gerenciamento de mensagens e clientes usando PySimpleGUI e SQLite, com integração para envio de mensagens via WhatsApp.
 
